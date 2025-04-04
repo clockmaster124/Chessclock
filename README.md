@@ -1,0 +1,2 @@
+# Chessclock
+Chess.com sidebar
